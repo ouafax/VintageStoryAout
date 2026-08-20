@@ -4,6 +4,8 @@ VintageStory modpack contains all the mods used on the server hosted by Pressea.
 ## Je veux jouer à plusieurs :
 Le modpack est disponible sur en auto-installation chez **[Nitroserv](https://www.nitroserv.com/location-serveur/vintage-story)** 
 
+**En cas d'installation sur un serveur il n'est pas nécessaire de télécharger le modpack, ceci seront téléchargés automatiquement sur votre client**
+
 ## Un problème avec le modpack :
 **Nous ne fournissons pas de support pour les mods inclus dans le pack.** En cas de problème avec un mod en particulier, merci de vous adresser directement à son auteur. Vous pouvez retrouver le lien de chaque mod ci-dessous pour le contacter ou consulter sa page.
 
