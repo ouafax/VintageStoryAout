@@ -10,6 +10,13 @@ Le modpack est disponible en auto-installation chez **[Nitroserv](https://www.ni
 ## Un problème avec le modpack :
 **Nous ne fournissons pas de support pour les mods inclus dans le pack.** En cas de problème avec un mod en particulier, merci de vous adresser directement à son auteur. Vous pouvez retrouver le lien de chaque mod ci-dessous pour le contacter ou consulter sa page.
 
+## J'ai un problème lors de la mise à jour du pack
+Il est possible qu'un problème de crash puisse apparaître au moment de mettre le modpack à jour.
+Vous pouvez vérifier dans 
+* `%appdata%\VintagestoryData\Mods\` si vous êtes en solo
+* `%appdata%\VintagestoryData\ModsByServer\ADRESSE-DE-VOTRE-SERVEUR`
+Que les mods ne sont pas en double (Ancienne + Nouvelle version). Si c'est le cas, vous devez supprimer la version en trop.
+
 ## Liste des mods
 * [A Culinary Artillery](https://mods.vintagestory.at/aculinaryartillery)
 * [Alchemy](https://mods.vintagestory.at/alchemy)
@@ -84,6 +91,7 @@ Le modpack est disponible en auto-installation chez **[Nitroserv](https://www.ni
 * [Vintage Skaven Rat](https://mods.vintagestory.at/skavenratplayermodel)
 * [VS ImGui](https://mods.vintagestory.at/imgui)
 * [VS Instruments Redux](https://mods.vintagestory.at/show/mod/61428)
+* [VS Instruments Redux - Expansion A](https://mods.vintagestory.at/show/mod/63012)
 * [VS Roofing](https://mods.vintagestory.at/show/mod/30143)
 * [Watersheds](https://mods.vintagestory.at/algernonswatersheds)
 * [World Pregenerator](https://mods.vintagestory.at/show/mod/49020)
