@@ -1,6 +1,9 @@
 # VintageStory d'Aout
 VintageStory modpack contains all the mods used on the server hosted by Pressea.
 
+**Dernière mise à jour : 25/08/2026**
+**Version du pack : 1.0.2**
+
 ## Je veux jouer à plusieurs :
 Le modpack est disponible en auto-installation chez **[Nitroserv](https://www.nitroserv.com/location-serveur/vintage-story)** 
 
@@ -99,4 +102,8 @@ Que les mods ne sont pas en double (Ancienne + Nouvelle version). Si c'est le ca
 * [XLib Fork](https://mods.vintagestory.at/show/mod/44133)
 * [XSkills Fork](https://mods.vintagestory.at/show/mod/44074)
 * [XSkills Gilded](https://mods.vintagestory.at/show/mod/26936)
-* [XSkills Gilded](https://mods.vintagestory.at/xskillsgilded)
+* [Xandus Inventory Tweaks Fork](https://mods.vintagestory.at/xinvtweaksfork)
+* [Emotes](https://mods.vintagestory.at/emotes)
+* [NDL ExpandedGrowth (Mushroom Growth Module)](https://mods.vintagestory.at/ndlexpandedgrowthmushrooms)
+* [Flowerbeds](https://mods.vintagestory.at/flowerbeds)
+* [Admirable Attire!](https://mods.vintagestory.at/admirableattire)
