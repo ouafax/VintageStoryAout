@@ -4,7 +4,7 @@
   "name": "VintageStory d'Août",
   "authors": ["Redtoxx", "Lerelo", "Ouafax"],
   "description": "Ce modpack contient l'ensemble des mods utilisés sur le serveur Vintage Story organisé par Pressea.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "dependencies": {
     "game": "1.22.0",
     "aculinaryartillery": "2.0.0-dev.21",
@@ -87,6 +87,11 @@
     "worldpregenerator": "1.0.2",
     "xlibfork": "1.0.35",
     "xskillsfork": "1.0.93",
-    "xskillsgilded": "1.3.49"
+    "xskillsgilded": "1.3.49",
+    "xinvtweaksfork": "1.9.1",
+    "admirableattire": "1.1.0",
+    "ndlmushroomgrowth": "2.4.3",
+    "flowerbeds": "1.0.1",
+    "emotes": "2.8.1"
   }
 }
