@@ -1,8 +1,8 @@
 # VintageStory d'Aout
 VintageStory modpack contains all the mods used on the server hosted by Pressea.
 
-**Dernière mise à jour : 25/08/2026**  
-**Version du pack : 1.0.2**
+**Dernière mise à jour : 03/09/2026**  
+**Version du pack : 1.0.3**
 
 ## Je veux jouer à plusieurs :
 Le modpack est disponible en auto-installation chez **[Nitroserv](https://www.nitroserv.com/location-serveur/vintage-story)** 
