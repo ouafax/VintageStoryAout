@@ -101,7 +101,7 @@ Que les mods ne sont pas en double (Ancienne + Nouvelle version). Si c'est le ca
 * [WS Tablet Patch](https://mods.vintagestory.at/show/mod/55736)
 * [XLib Fork](https://mods.vintagestory.at/show/mod/44133)
 * [XSkills Fork](https://mods.vintagestory.at/show/mod/44074)
-* [XSkills Gilded](https://mods.vintagestory.at/show/mod/26936)
+* [XSkills Gilded](https://mods.vintagestory.at/show/mod/32739)
 * [Xandus Inventory Tweaks Fork](https://mods.vintagestory.at/xinvtweaksfork)
 * [Emotes](https://mods.vintagestory.at/emotes)
 * [NDL ExpandedGrowth (Mushroom Growth Module)](https://mods.vintagestory.at/ndlexpandedgrowthmushrooms)
